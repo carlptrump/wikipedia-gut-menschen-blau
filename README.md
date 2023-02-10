@@ -1,1 +1,0 @@
-# wikipedia-gut-menschen-blau
