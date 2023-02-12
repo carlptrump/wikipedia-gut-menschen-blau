@@ -11,3 +11,6 @@ Rechtsklick auf die Zip-Datei > Alle extrahieren
 Einstellungen > unten links auf Erweiterungen > oben rechts auf Entwicklermodus > oben links auf entpackte Erweiterung laden  
 Dann den ausgepackten Ordner auswählen  
 Bitte beachten, dass die Erweiterung im extrahierten Ordner in einem weiteren Ordner mit gleichem Namen ist!  
+
+## Firefox Version  
+https://addons.mozilla.org/de/firefox/addon/wikipedia-gut-menschen-blau/
